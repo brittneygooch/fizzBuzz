@@ -1,0 +1,6 @@
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.exe.config
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.exe
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.pdb
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.exe
+c:\users\brittney\documents\visual studio 2013\Projects\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.pdb
